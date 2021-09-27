@@ -1,6 +1,6 @@
 ## Welcome to indic-vision-ui :wave:
 
-**Handy Web App for performing OCR for Indian languages, a.k.a Indic OCR**
+**Handy Web App for performing OCR for Indian languages, a.k.a Indic Vision UI**
 
 Powered by [EasyOCR](https://github.com/JaidedAI/EasyOCR) and [Streamlit](https://github.com/streamlit/streamlit).
 Made with opensource ❤️ by [@whisperingwasps](https://github.com/whisperingwasps).
