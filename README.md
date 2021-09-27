@@ -1,4 +1,4 @@
-## Welcome to indic-ocr :wave:
+## Welcome to indic-vision-ui :wave:
 
 **Handy Web App for performing OCR for Indian languages, a.k.a Indic OCR**
 
