@@ -36,4 +36,4 @@ def read_image(reader,image,with_detail=False):
         result = reader.readtext(image, detail=0)
     else:
         result = reader.readtext(image) 
-    return resultx
+    return result
